@@ -11,3 +11,5 @@ Personal projects combining concepts learned in the Solidity Smart Contract Deve
 - **03-phonestore** — Phone inventory contract, same pattern as bookstore (owner-restricted add/mark-sold, public price lookup). Second independent practice run.
 
 - **04-inventory** — Generic product inventory contract, same struct/array/access control pattern applied to a third, more abstract domain. Third independent practice run.
+
+- **05-boutiques-storagefactory** — A factory contract that creates one shop contract per merchant, each with its own owner, products and sales totals. Uses `import`, inheritance, `new` and constructor parameters. Built from a spec without a solution.
